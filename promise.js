@@ -28,4 +28,3 @@ function getMovies(id){
 
 getDirectors().then(getMovies)
 
-console.log("hello world")
